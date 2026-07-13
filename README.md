@@ -1,4 +1,3 @@
-![E-Commerce SQL Project Banner](banner.png)
 # 🛒 E-Commerce Sales Analysis SQL Project
 
 ## 📌 Project Overview
