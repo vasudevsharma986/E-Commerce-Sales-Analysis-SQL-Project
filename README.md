@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Banner.png" alt="E-Commerce SQL Project Banner" width="100%">
+</p>
+
 # 🛒 E-Commerce Sales Analysis SQL Project
 
 ## 📌 Project Overview
