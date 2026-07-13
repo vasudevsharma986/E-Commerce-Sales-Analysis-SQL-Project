@@ -45,3 +45,24 @@ This project demonstrates SQL skills by analyzing an E-Commerce Sales database u
 
 ## 👨‍💻 Author
 **Vasudev Sharma**
+
+
+## 📷 Project Screenshots
+
+### 🏠 Home Page
+![Home Page](Home_page.png)
+
+### 🗂️ ER Diagram
+![ER Diagram](ER_diagram.png)
+
+### 💰 Product Revenue
+![Product Revenue](Product_Revenue.png)
+
+### 📊 Category Revenue
+![Category Revenue](Category_Revenue.png)
+
+### 💳 Popular Payment Mode
+![Popular Payment Mode](Popular_payment_Mode.png)
+
+### 💎 Top 5 Most Expensive Products
+![Top 5 Most Expensive Products](Top_5_Expensive_products.png)
